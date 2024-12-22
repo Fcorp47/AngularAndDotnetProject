@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WALQktQvGZr7OWxY1H4EPAMRVOEciVaNi00TU4KPXok=",
+  "Source": "DotNetAPITask",
+  "BasePath": "_content/DotNetAPITask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
